@@ -1,5 +1,5 @@
 # DeepLearningIntro
-This code is an intro into on Deep Leaning based on Harvard Extension CSCI E-89.
+This code is an intro into on Deep Learning based on Harvard Extension CSCI E-89.
 
 Some (or most) of these programs are based on Chollet's book Deep Learning with Python: 
 Mannig editor deep-learning-with-python
